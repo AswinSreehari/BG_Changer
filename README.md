@@ -1,6 +1,6 @@
 # BG_Changer
 
-![BG_Changer Demo](../bgChanger/src/assets/Screenshot%20(322).png)
+![BG_Changer Demo](./src/assets/Screenshot%20(322).png)
 
 ## About the Project
 
